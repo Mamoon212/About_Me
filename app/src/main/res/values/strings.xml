@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="Ipsum">Lorem Ipsum</string>
+    <string name="star_image">Star Image</string>
+    <string name="enter_your_nickname">Enter your nickname</string>
+    <string name="done">Done</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquam libero magna, a ullamcorper nisl sodales ut. Vivamus sollicitudin risus libero, quis porttitor metus vulputate ac. Pellentesque eget accumsan orci. Quisque eget arcu non lectus tempus eleifend sit amet sit amet ligula. Sed lorem dolor, suscipit vel aliquam non, posuere et nisi. Suspendisse molestie volutpat lorem, vitae feugiat mi laoreet vitae. Donec facilisis aliquam eleifend. Ut semper at mauris et viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+
+Mauris at turpis eu felis semper viverra. Sed bibendum aliquam gravida. Nullam auctor eu quam gravida convallis. Curabitur semper varius mi, nec mollis erat semper et. Donec egestas pulvinar ligula eget euismod. Etiam ultricies pellentesque metus ut dictum. Maecenas ut erat gravida, egestas lorem at, sodales purus. Morbi vel metus gravida, malesuada sapien quis, iaculis dui.
+
+Suspendisse ornare interdum viverra. Ut sem neque, porta sed odio in, pharetra convallis nulla. Curabitur quis lectus id ex imperdiet eleifend. Aliquam pretium nisi sem, a posuere turpis vehicula eu. Curabitur maximus imperdiet tincidunt. Proin scelerisque dictum sapien et finibus. Nunc eu ex massa.
+
+Etiam eleifend pharetra felis, commodo bibendum turpis. Sed varius tortor vitae porttitor vulputate. Vestibulum at felis vitae libero pulvinar congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce posuere, nunc fermentum sollicitudin fringilla, risus mi auctor massa, vel gravida nulla enim ac nulla. Sed sit amet ex iaculis, bibendum tortor eu, euismod nisl. Ut vehicula lacus et velit dapibus mollis. Donec eu tempor lectus. Integer leo nisi, tempus tempus magna non, accumsan blandit libero. Nulla eu efficitur nisl, sit amet tincidunt augue.
+
+Nunc ultrices nunc et arcu tincidunt, id scelerisque elit rhoncus. Curabitur ac felis vulputate, posuere sem sit amet, luctus ex. In volutpat nisi a auctor commodo. Nulla tristique ligula eget sem imperdiet, eu malesuada magna laoreet. Nullam sit amet consequat dolor. In pharetra tortor id tortor varius, sit amet rhoncus neque pharetra. Aliquam erat volutpat. Morbi vitae leo tristique, iaculis dui in, semper orci. Donec ultricies, ex ut auctor hendrerit, lectus mauris venenatis tellus, placerat mattis est risus nec odio. Etiam sit amet semper magna, at porttitor arcu. Pellentesque in arcu cursus orci rhoncus scelerisque in tempor urna. Morbi at ullamcorper ipsum. Donec rutrum lectus at aliquet facilisis. Cras nec diam suscipit, egestas risus eleifend, rutrum libero. Praesent eget egestas elit.</string>
+</resources>
